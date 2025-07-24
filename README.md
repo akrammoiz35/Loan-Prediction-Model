@@ -15,7 +15,7 @@ The dataset includes features like:
 - Credit History
 - Gender, Marital Status, Education, Property Area, etc.
 
-Target variable: `Loan_Status` (Y/N)
+Target variable: `Loan_Status` (Accepted/Rejected)
 
 ---
 
@@ -35,8 +35,6 @@ Target variable: `Loan_Status` (Y/N)
    - Accuracy, Precision, Recall, F1-score
    - Confusion Matrix
    - ROC Curve and AUC Score
-7. **Model Saving**
-   - Saved final pipeline using `joblib` or `pickle`
 
 ---
 
